@@ -18,3 +18,5 @@ Tower of Hanoi logic -  https://www.youtube.com/watch?v=rf6uf3jNjbo&t=2s
 CTF for Linux - https://overthewire.org/wargames/bandit/
 
 List of some recursion problems - https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-recursion.php
+
+Best Computer vision course - https://pjreddie.com/courses/computer-vision/
